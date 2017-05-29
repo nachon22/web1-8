@@ -10,11 +10,11 @@ body{
 
 #logo li{
   float: left;
-  list-style-type:
+  list-style-type: none;
 }
 
 #logo img{
-  width* 100px;
+  width: 100px;
 }
 
 #gnav a{
